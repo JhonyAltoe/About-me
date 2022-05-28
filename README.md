@@ -6,13 +6,12 @@ Web developer
 
 Sou um apaixonado por tecnologia e games desde criança mas nunca imaginei que estaria estudando programação, e aqui estou, amando estudar e não pretendo parar de aprender. Tenho outro objetivo que é mergulhar no mundo do mercado financeiro. Estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar, a aprender e a trabalhar.
 
-I'm in love with tecnology and games since I was a child but never imagined I was studying programmer and here I am, loving study and I don't intend to stop learning. I have another objective that is dive into the world of the financial market. I study web development in Trybe, programmer school that teach programmer, learn to learn and to work.
+I'm in love with tecnology and games since I was a child but never imagined I was going to be studying TI but here I am, loving my studies and I don't intend to stop learning. I have another objective that is to dive into the world of the financial market. I study web development in Trybe, TI school that teach programming, learn to learn and to work.
 
-* 🌍  I'm based in Brazil, Serra-ES
 * ✉️  You can contact me at [jhonymikealtoe@hotmail.com](mailto:jhonymikealtoe@hotmail.com)
 * 🧠  I'm learning Docker, Mysql and Node.js
-* 🤝  I'm open to collaborating on Frontend developer
-* ⚡  I love to play games, to keep me learning, talk with friends and relax with the nature
+* 🤝  I'm open to collaborating on Frontend projects
+* ⚡  I love to play games, to keep learning, talk with friends and relax with the nature
 
 <a href="https://www.github.com/JhonyAltoe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JhonyAltoe?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
