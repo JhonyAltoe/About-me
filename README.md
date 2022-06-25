@@ -9,8 +9,8 @@ Sou um apaixonado por tecnologia e games desde criança mas nunca imaginei que e
 I'm in love with tecnology and games since I was a child but never imagined I was going to be studying TI but here I am, loving my studies and I don't intend to stop learning. I have another objective that is to dive into the world of the financial market. I study web development in Trybe, TI school that teach programming, learn to learn and to work.
 
 * ✉️  You can contact me at [jhonymikealtoe@hotmail.com](mailto:jhonymikealtoe@hotmail.com)
-* 🧠  I'm learning Docker, Mysql and Node.js
-* 🤝  I'm open to collaborating on Frontend projects
+* 🧠  I'm learning Docker, Mysql, Node.js and Express.
+* 🤝  I'm open to collaborating on Full-Stack projects
 * ⚡  I love to play games, to keep learning, talk with friends and relax with the nature
 
 <a href="https://www.github.com/JhonyAltoe" target="_blank" rel="noreferrer"><img
@@ -33,7 +33,10 @@ src="https://img.shields.io/github/followers/JhonyAltoe?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/jhony.mike" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/JhonyAltoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jhonyaltoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jhony-altoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jhonymikealtoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://www.github.com/JhonyAltoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/jhony-altoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/jhonymikealtoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
