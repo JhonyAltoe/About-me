@@ -13,9 +13,6 @@ I'm in love with tecnology and games since I was a child but never imagined I wa
 * 🤝  I'm open to collaborating on Full-Stack projects
 * ⚡  I love to play games, to keep learning, talk with friends and relax with the nature
 
-<a href="https://www.github.com/JhonyAltoe" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JhonyAltoe?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
