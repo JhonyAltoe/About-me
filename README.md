@@ -1,17 +1,15 @@
-Hi 👋 My name is Jhony Mike Altoé
+Oi 👋 Meu nome é Jhony Mike Altoé
 ===========================
 
-Web developer
+Desenvolvedor Web
 -------------
 
 Sou um apaixonado por tecnologia e games desde criança mas nunca imaginei que estaria estudando programação, e aqui estou, amando estudar e não pretendo parar de aprender. Tenho outro objetivo que é mergulhar no mundo do mercado financeiro. Estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar, a aprender e a trabalhar.
 
-I'm in love with tecnology and games since I was a child but never imagined I was going to be studying TI but here I am, loving my studies and I don't intend to stop learning. I have another objective that is to dive into the world of the financial market. I study web development in Trybe, TI school that teach programming, learn to learn and to work.
-
-* ✉️  You can contact me at [jhonymikealtoe@hotmail.com](mailto:jhonymikealtoe@hotmail.com)
-* 🧠  I'm learning Docker, Mysql, Node.js and Express.
-* 🤝  I'm open to collaborating on Full-Stack projects
-* ⚡  I love to play games, to keep learning, talk with friends and relax with the nature
+* ✉️  Você pode me contatar em [jhonymikealtoe@hotmail.com](mailto:jhonymikealtoe@hotmail.com)
+* 🧠  Estou aprendendo Node.js e Sequelize.
+* 🤝  Estou aberto para colaborar em projetos Full-Stack
+* ⚡  Eu amo jogar, me manter aprendendo, conversar com amigo e relaxar com a natureza
 
 ### Skills
 
