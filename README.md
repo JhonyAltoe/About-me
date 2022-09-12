@@ -16,8 +16,8 @@ Aliás, vou ser ainda mais feliz no trabalho se essa empresa incentivar o aprend
 
 
 * ✉️  Você pode me contatar em [jhonymikealtoe@hotmail.com](mailto:jhonymikealtoe@hotmail.com)
-* 🧠  Estou aprendendo Node.js e Sequelize.
-* 🤝  Estou aberto para colaborar em projetos Full-Stack
+* 🧠  Estou aprendendo GO lang por conta própria.
+* 🤝  Estou aberto para colaborar em projetos Back-End
 * ⚡  Eu amo jogar, me manter aprendendo, conversar com amigo e relaxar com a natureza
 
 ### Skills
