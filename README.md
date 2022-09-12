@@ -4,7 +4,16 @@ Oi 👋 Meu nome é Jhony Mike Altoé
 Desenvolvedor Web
 -------------
 
-Sou um apaixonado por tecnologia e games desde criança mas nunca imaginei que estaria estudando programação, e aqui estou, amando estudar e não pretendo parar de aprender. Tenho outro objetivo que é mergulhar no mundo do mercado financeiro. Estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar, a aprender e a trabalhar.
+Olá, me chamo Jhony e já sou um desenvolvedor apesar de ainda não ter completado um ano em contato com a programação.
+
+Como fiz isso? 
+
+Encontrei uma oportunidade em uma escola de programação chamada Trybe que ensina a programar na prática e simula como se estivéssemos trabalhando, estimulando o aluno a aprender por conta própria. E muito importante, as soft skills são levadas a sério.
+
+Além das tecnologias, também aprendemos metodologias ágeis na prática (scrum e kanban). E é claro, meu esforço tem sido enorme.  Hoje me considero um dos destaques da turma e capaz de encarar qualquer desafio, reconheço que ainda não tenho experiência mas sem dúvida já estou mais do que preparado para o mercado de trabalho e sei disso porque muitos dos meus colegas recém empregados me contam como é a receptividade ao iniciar, e todos que eu conversei estavam acima do esperado. Estou mais do que pronto!
+
+Aliás, vou ser ainda mais feliz no trabalho se essa empresa incentivar o aprendizado.
+
 
 * ✉️  Você pode me contatar em [jhonymikealtoe@hotmail.com](mailto:jhonymikealtoe@hotmail.com)
 * 🧠  Estou aprendendo Node.js e Sequelize.
