@@ -10,10 +10,9 @@ Os projetos que eu fiz durante os últimos meses me fizeram apaixonar pela progr
 
 Eu amo me exercitar, ter atitudes saudáveis, quando preciso relaxar procuro a natureza para ficar parado sem pensar em nada. Amo jogos de computador e conversar com pessoas. Tenho interesse em aprender sobre investimentos e tecnologia.
 
-* ✉️  Você pode me contatar em [jhonymikealtoe@hotmail.com](mailto:jhonymikealtoe@hotmail.com)
-* 🧠  Estou aprendendo GO lang por conta própria.
-* 🤝  Estou aberto para colaborar em projetos Back-End
-* ⚡  Eu amo jogar, me manter aprendendo, conversar com amigo e relaxar com a natureza
+* ✉️  Você pode me contatar em: 
+* E-mail: [jhonymikealtoe@hotmail.com](mailto:jhonymikealtoe@hotmail.com)
+* Phone Number: +55 (27) 99506-5211
 
 ### Tecnologias
 Express.js, Docker, JavaScript, TypeScript, Mocha, Chai, Sinon, Node.js, Git, MySQL, MariaDB, Unix Bash, Sequelize, HTML, React.js, Redux Toolkit, Context API, Jest, RTL e MUI.
