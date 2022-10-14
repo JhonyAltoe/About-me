@@ -4,16 +4,11 @@ Oi 👋 Meu nome é Jhony Mike Altoé
 Desenvolvedor Web
 -------------
 
-Olá, me chamo Jhony e já sou um desenvolvedor apesar de ainda não ter completado um ano em contato com a programação.
+Sou um programador Full Stack com mais de 40 projetos já feitos. Um dos últimos projetos feitos por mim foi futebol-clube-back-end, um projeto back-end onde utilizei as tecnologias Express, Typescript, Docker, Mocha, Chai e Sinon.
 
-Como fiz isso? 
+Os projetos que eu fiz durante os últimos meses me fizeram apaixonar pela programação. Eu amo desafios e resolver problemas. Atualmente estou estudando outras tecnologias para me aperfeiçoar como back-end.
 
-Encontrei uma oportunidade em uma escola de programação chamada Trybe que ensina a programar na prática e simula como se estivéssemos trabalhando, estimulando o aluno a aprender por conta própria. E muito importante, as soft skills são levadas a sério.
-
-Além das tecnologias, também aprendemos metodologias ágeis na prática (scrum e kanban). E é claro, meu esforço tem sido enorme.  Hoje me considero um dos destaques da turma e capaz de encarar qualquer desafio, reconheço que ainda não tenho experiência mas sem dúvida já estou mais do que preparado para o mercado de trabalho e sei disso porque muitos dos meus colegas recém empregados me contam como é a receptividade ao iniciar, e todos que eu conversei estavam acima do esperado. Estou mais do que pronto!
-
-Aliás, vou ser ainda mais feliz no trabalho se essa empresa incentivar o aprendizado.
-
+Eu amo me exercitar, ter atitudes saudáveis, quando preciso relaxar procuro a natureza para ficar parado sem pensar em nada. Amo jogos de computador e conversar com pessoas. Tenho interesse em aprender sobre investimentos e tecnologia.
 
 * ✉️  Você pode me contatar em [jhonymikealtoe@hotmail.com](mailto:jhonymikealtoe@hotmail.com)
 * 🧠  Estou aprendendo GO lang por conta própria.
@@ -21,6 +16,7 @@ Aliás, vou ser ainda mais feliz no trabalho se essa empresa incentivar o aprend
 * ⚡  Eu amo jogar, me manter aprendendo, conversar com amigo e relaxar com a natureza
 
 ### Tecnologias
+Express.js, Docker, JavaScript, TypeScript, Mocha, Chai, Sinon, Node.js, Git, MySQL, MariaDB, Unix Bash, Sequelize, HTML, React.js, Redux Toolkit, Context API, Jest, RTL e MUI.
 <!-- <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt=""/></a> -->
 
 <p align="left">
