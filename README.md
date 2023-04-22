@@ -4,11 +4,7 @@ Oi 👋 Meu nome é Jhony Mike Altoé
 Desenvolvedor Web
 -------------
 
-Sou um programador Full Stack com mais de 40 projetos já feitos. Um dos últimos projetos feitos por mim foi futebol-clube-back-end, um projeto back-end onde utilizei as tecnologias Express, Typescript, Docker, Mocha, Chai e Sinon.
-
-Os projetos que eu fiz durante os últimos meses me fizeram apaixonar pela programação. Eu amo desafios e resolver problemas. Atualmente estou estudando outras tecnologias para me aperfeiçoar como back-end.
-
-Eu amo me exercitar, ter atitudes saudáveis, quando preciso relaxar procuro a natureza para ficar parado sem pensar em nada. Amo jogos de computador e conversar com pessoas. Tenho interesse em aprender sobre investimentos e tecnologia.
+Desenvolvedor Full-stack com experiência em programação e desenvolvimento web. Possuo conhecimentos sólidos em diversas tecnologias e ferramentas, incluindo desenvolvimento de back-end com Node.js, criação de interfaces de usuário com React.js, gerenciamento de bancos de dados MySQL e MariaDB, entre outras habilidades. Comprometido em criar soluções de alta qualidade, tenho um olhar crítico para o código e estou sempre buscando aprimorar minhas habilidades técnicas. Estou animado em colaborar em projetos desafiadores e em fazer parte de uma equipe orientada a resultados. Busco oportunidades para expandir minhas habilidades e contribuir para projetos de sucesso no mercado de trabalho.
 
 * ✉️  Você pode me contatar em: 
 * E-mail: [jhonymikealtoe@hotmail.com](mailto:jhonymikealtoe@hotmail.com)
