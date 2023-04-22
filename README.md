@@ -11,7 +11,7 @@ Desenvolvedor Full-stack com experiência em programação e desenvolvimento web
 * Phone Number: +55 (27) 99506-5211
 
 ### Tecnologias
-Express.js, Docker, JavaScript, TypeScript, Mocha, Chai, Sinon, Node.js, Git, MySQL, MariaDB, Unix Bash, Sequelize, HTML, React.js, Redux Toolkit, Context API, Jest, RTL e MUI.
+Golang, JavaScript, TypeScript, Python, Express.js, Docker, Mocha, Chai, Sinon, Node.js, Git, MySQL, MariaDB, Unix Bash, Sequelize, HTML, React.js, Redux Toolkit, Context API, Jest, RTL e MUI.
 <!-- <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt=""/></a> -->
 
 <p align="left">
