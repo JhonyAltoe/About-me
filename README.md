@@ -4,14 +4,14 @@ Oi 👋 Meu nome é Jhony Mike Altoé
 Desenvolvedor Web
 -------------
 
-Desenvolvedor Full-stack com experiência em programação e desenvolvimento web. Possuo conhecimentos sólidos em diversas tecnologias e ferramentas, incluindo desenvolvimento de back-end com Node.js, criação de interfaces de usuário com React.js, gerenciamento de bancos de dados MySQL e MariaDB, entre outras habilidades. Comprometido em criar soluções de alta qualidade, tenho um olhar crítico para o código e estou sempre buscando aprimorar minhas habilidades técnicas. Estou animado em colaborar em projetos desafiadores e em fazer parte de uma equipe orientada a resultados. Busco oportunidades para expandir minhas habilidades e contribuir para projetos de sucesso no mercado de trabalho.
+Desenvolvedor Full-stack com experiência em programação e desenvolvimento web. Possuo conhecimentos sólidos em diversas tecnologias e ferramentas, incluindo desenvolvimento de back-end com Node.js, criação de interfaces de usuário com React.js, gerenciamento de bancos de dados MySQL e MongoDB, entre outras habilidades. Comprometido em criar soluções de alta qualidade, tenho um olhar crítico para o código e estou sempre buscando aprimorar minhas habilidades técnicas. Estou animado em colaborar em projetos desafiadores e em fazer parte de uma equipe orientada a resultados. Busco oportunidades para expandir minhas habilidades e contribuir para projetos de sucesso no mercado de trabalho.
 
 * ✉️  Você pode me contatar em: 
 * E-mail: [jhonymikealtoe@hotmail.com](mailto:jhonymikealtoe@hotmail.com)
 * Phone Number: +55 (27) 99506-5211
 
 ### Tecnologias
-Golang, JavaScript, TypeScript, Python, Express.js, Docker, Mocha, Chai, Sinon, Node.js, Git, MySQL, MariaDB, Unix Bash, Sequelize, HTML, React.js, Redux Toolkit, Context API, Jest, RTL e MUI.
+Golang(Go), JavaScript, TypeScript, Python, SQL, Express.js, Docker, Mocha, Chai, Sinon, Node.js, Git, MySQL, MariaDB, MongoDB, Unix Bash, Sequelize, HTML, React.js, Redux Toolkit, Context API, Jest, RTL e MUI.
 <!-- <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt=""/></a> -->
 
 <p align="left">
